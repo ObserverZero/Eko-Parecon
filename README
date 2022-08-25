@@ -1,0 +1,11 @@
+
+
+Eko - A participatory economic application for volunteering and syndicalist communities.
+
+Eko is a front end for the Matrix specification server using the Quasar framework for Vue.
+
+The idea is simple. Users can create and join groups. Groups can also join other groups.
+The syndicalist community is thus formed through the connecting of groups into larger groups,
+sharing a single community of work and exchange.
+
+GPL v3
